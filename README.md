@@ -1,2 +1,0 @@
-# guestposting
-Guest posting 
